@@ -3386,3 +3386,630 @@ Converted Global Transform (0.000000,0.000000,0.000000|0.000000,0.000000,0.00000
 [2022.02.22-09.45.02:408][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.02.22-09.45.02:411][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2022.02.22-09.45.02:467][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.22-09.53.41:745][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.22-09.53.41:891][486]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Mapa_Auto21179B65A4D79B3A83B5AAAB51D70ACAE.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/ThirdPersonBP/Maps/Mapa_Auto2.umap'
+[2022.02.22-09.53.41:892][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Mapa' took 0.155
+[2022.02.22-09.53.41:892][486]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.155
+[2022.02.22-09.53.41:893][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/m_terreno] ([1] browsable assets)...
+[2022.02.22-09.53.41:936][486]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/m_terreno.m_terreno]
+[2022.02.22-09.53.41:936][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/m_terreno]
+[2022.02.22-09.53.41:943][486]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/m_terreno_Auto2BF263D2941231C36C2E5C7B03DD85D25.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/ThirdPersonBP/m_terreno_Auto2.uasset'
+[2022.02.22-09.53.41:943][486]LogFileHelpers: Auto-saving content packages took 0.051
+[2022.02.22-10.04.05:869][ 48]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-10.04.05:874][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-10.04.05:875][ 48]PIE: New page: Sesión PIE (reproducción en el editor): Mapa (22 feb. 2022 12:04:05)
+[2022.02.22-10.04.05:875][ 48]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.04.05:910][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034988s)
+[2022.02.22-10.04.05:911][ 48]LogAIModule: Creating AISystem for world Mapa
+[2022.02.22-10.04.05:911][ 48]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2022.02.22-10.04.05:911][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Mapa.Mapa to /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa (0.036363s)
+[2022.02.22-10.04.05:918][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.02.22-10.04.05:921][ 48]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-10.04.05:922][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-10.04.05:922][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-10.04.05:923][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-10.04.05:923][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-10.04.05:923][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-10.04.05:924][ 48]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-10.04.05:927][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-10.04.05:927][ 48]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-10.04.05:960][ 48]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.02.22-10.04.05:960][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-10.04.05:960][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-10.04.05:960][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-10.04.05:961][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-10.04.05:961][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-10.04.05:961][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-10.04.05:962][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-10.04.05:962][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-10.04.05:962][ 48]LogInit: FAudioDevice initialized.
+[2022.02.22-10.04.05:962][ 48]LogAudio: Display: Audio Device (ID: 6) registered with world 'Mapa'.
+[2022.02.22-10.04.05:972][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.22-10.04.05:975][ 48]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2022.02.22-11.04.05
+[2022.02.22-10.04.05:977][ 48]LogWorld: Bringing up level for play took: 0.003176
+[2022.02.22-10.04.05:977][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.22-10.04.05:979][ 48]PIE: El servidor ha iniciado la sesión
+[2022.02.22-10.04.05:980][ 48]PIE: Play in editor total start time 0,106 seconds.
+[2022.02.22-10.04.15:384][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.04.15:384][349]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.04.15:384][349]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-10.04.15:384][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.04.15:394][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-10.04.15:396][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.04.15:401][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.04.15:402][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.04.15:403][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.04.15:424][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.22-10.04.15:475][351]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.22-10.04.25:041][664]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.22-10.04.25:828][664]LogStaticMesh: Generando la malla estática S_WaterPlane_256...
+[2022.02.22-10.04.25:909][664]LogStaticMesh: Built static mesh [0.09s] /Water/Meshes/S_WaterPlane_256.S_WaterPlane_256
+[2022.02.22-10.04.25:912][664]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 05CA96FE52E701F3C5D0F6E12A42C1D920582335), compiling. 
+[2022.02.22-10.04.25:922][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:923][664]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_01_NoTerrain in PCD3D_SM5, Default, SM5 (DDC key hash: 05F84EE01CCF882D05F0F1E78A67264DE00A1C38), compiling. 
+[2022.02.22-10.04.25:929][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:930][664]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 8498FFE3DC5E369B2E8D6A4397AB77BF46A49C84), compiling. 
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:939][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:940][664]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal_TerrainSystem in PCD3D_SM5, Default, SM5 (DDC key hash: 72002910F943C198CC3864FC93823D97F8CACBE5), compiling. 
+[2022.02.22-10.04.25:952][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:953][664]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal_TerrainDepthOnly in PCD3D_SM5, Default, SM5 (DDC key hash: 83C6E90252AE194B4939DA5D0405BB314C84DDD3), compiling. 
+[2022.02.22-10.04.25:965][664]LogMaterial: Display: Missing cached shadermap for M_ComputeNormal_SceneCapture in PCD3D_SM5, Default, SM5 (DDC key hash: DB1E37744F676CCD806521A512F535A8EB7E89A4), compiling. 
+[2022.02.22-10.04.25:981][664]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.02.22-10.04.25:981][664]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2022.02.22-10.04.25:981][664]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:981][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:983][664]LogMaterial: Display: Missing cached shadermap for MakeEdgeMask in PCD3D_SM5, Default, SM5 (DDC key hash: AF152CD89004FAD49638949D2D31A03AC88E4244), compiling. 
+[2022.02.22-10.04.25:992][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.25:994][664]LogMaterial: Display: Missing cached shadermap for CopyRT in PCD3D_SM5, Default, SM5 (DDC key hash: 1CAD1A77FA339CD4512C1BEEBBF09F32863B6FCC), compiling. 
+[2022.02.22-10.04.26:008][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.26:010][664]LogMaterial: Display: Missing cached shadermap for ComputeVoronoiDistance in PCD3D_SM5, Default, SM5 (DDC key hash: 56B19696869AD24C15E6F8CF8E95E26BA0C0EC30), compiling. 
+[2022.02.22-10.04.26:025][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.26:027][664]LogMaterial: Display: Missing cached shadermap for M_RT_Normals in PCD3D_SM5, Default, SM5 (DDC key hash: 13CB55A13D3CA9D0598201175417FB01476B6920), compiling. 
+[2022.02.22-10.04.26:036][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:719][664]LogTexture: Display: Building textures: Caustics_Animated_01_HDR (RGBA16F, 4096X2048)
+[2022.02.22-10.04.27:719][664]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2022.02.22-10.04.27:719][664]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:719][664]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 55
+[2022.02.22-10.04.27:719][664]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:719][664]LogMaterial: Display: Missing cached shadermap for M_Underwater_CrossSection_Test in PCD3D_SM5, Default, SM5 (DDC key hash: E7A485C7F312559646B15A54E184129CF82F7719), compiling. 
+[2022.02.22-10.04.27:736][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:741][664]LogMaterial: Display: Missing cached shadermap for M_Fluid_Display_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CCF03EADAC0E0F427B28EA03546863493A0C8D69), compiling. 
+[2022.02.22-10.04.27:784][664]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
+[2022.02.22-10.04.27:784][664]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 52
+[2022.02.22-10.04.27:784][664]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:784][664]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:787][664]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_Force_Component in PCD3D_SM5, Default, SM5 (DDC key hash: 7429367DD7AB4AF18B8416920A7A24227E28B540), compiling. 
+[2022.02.22-10.04.27:804][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:807][664]LogMaterial: Display: Missing cached shadermap for M_Fluid_Force_Skelmesh in PCD3D_SM5, Default, SM5 (DDC key hash: C5387C4DC07310DEE9D8BBEA17EFF947E37EC46D), compiling. 
+[2022.02.22-10.04.27:827][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:829][664]LogMaterial: Display: Missing cached shadermap for PerfTestNoiseMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1D9BBE39D67DF11955415E07895850599EAA9230), compiling. 
+[2022.02.22-10.04.27:869][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:871][664]LogMaterial: Display: Missing cached shadermap for FoamDiffuse in PCD3D_SM5, Default, SM5 (DDC key hash: E18A301ACA76CD31BBBEF0533A67BEB81596AB07), compiling. 
+[2022.02.22-10.04.27:883][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:885][664]LogMaterial: Display: Missing cached shadermap for FoamDeltaCopy in PCD3D_SM5, Default, SM5 (DDC key hash: DE6AF1362A9332ABC3496F6D2B9D1B099EA43E2B), compiling. 
+[2022.02.22-10.04.27:893][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:895][664]LogMaterial: Display: Missing cached shadermap for DrawWaveCrests in PCD3D_SM5, Default, SM5 (DDC key hash: 8CA8E2A01103F3B93710CF559033C87DA463D574), compiling. 
+[2022.02.22-10.04.27:905][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:908][664]LogMaterial: Display: Missing cached shadermap for M_Advect_Height_01 in PCD3D_SM5, Default, SM5 (DDC key hash: B0D6A9E2E80D8714C5A8DA940D7C224307F91B6D), compiling. 
+[2022.02.22-10.04.27:918][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:920][664]LogMaterial: Display: Missing cached shadermap for M_Advect_Height_TerrainSystem in PCD3D_SM5, Default, SM5 (DDC key hash: 0BA64690EFA02BFAFAB698387F7CAF25C020E428), compiling. 
+[2022.02.22-10.04.27:930][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:932][664]LogMaterial: Display: Missing cached shadermap for M_Advect_Height_SceneCapture in PCD3D_SM5, Default, SM5 (DDC key hash: 1D5C2FAF9BED42F15A7355874F0D51C67163591A), compiling. 
+[2022.02.22-10.04.27:943][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:945][664]LogMaterial: Display: Missing cached shadermap for M_SeedWater_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 36596EBE7A4D335FF5B2674981DB981E3A883B5B), compiling. 
+[2022.02.22-10.04.27:952][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:953][664]LogMaterial: Display: Missing cached shadermap for M_GravAcceleration in PCD3D_SM5, Default, SM5 (DDC key hash: 0003FC3CB158C86E7A5777B333155C7C1E062D29), compiling. 
+[2022.02.22-10.04.27:962][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:964][664]LogMaterial: Display: Missing cached shadermap for M_CalcDivergence in PCD3D_SM5, Default, SM5 (DDC key hash: 15183D26DCC44A80D4D0F849895FFD47BA3B8681), compiling. 
+[2022.02.22-10.04.27:973][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:975][664]LogMaterial: Display: Missing cached shadermap for M_Advect_Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: D06AAFFBD3B63F17A3ABB689322B7382410ADA6F), compiling. 
+[2022.02.22-10.04.27:983][664]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.27:988][664]LogMaterial: Display: Missing cached shadermap for M_Rain_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BE13470ED2DE6D2E381EBCFA257942B1CEFF21B), compiling. 
+[2022.02.22-10.04.28:002][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.28:005][664]LogMaterial: Display: Missing cached shadermap for M_Fluid_Sim_Force_Impulse in PCD3D_SM5, Default, SM5 (DDC key hash: B06DC61FF963CE99697F3133DDB707AF651EBEEE), compiling. 
+[2022.02.22-10.04.28:019][664]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.02.22-10.04.28:038][664]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 196
+[2022.02.22-10.04.28:038][664]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.28:038][664]LogBlueprintEditor: Perf: 2.9 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.02.22-10.04.28:038][664]LogBlueprintEditor: Perf: 2.8 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.02.22-10.04.28:388][664]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 186
+[2022.02.22-10.04.28:388][664]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.28:388][664]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0037 seconds. Added 126 classes and 0 folders.
+[2022.02.22-10.04.30:514][664]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 176
+[2022.02.22-10.04.30:514][664]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.30:514][664]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 166
+[2022.02.22-10.04.30:514][664]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.30:972][664]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 156
+[2022.02.22-10.04.30:973][664]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.30:973][664]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.22-10.04.30:973][664]LogShaderCompilers: Display: Total job queries 12652, among them cache hits 4463 (35.28%)
+[2022.02.22-10.04.30:973][664]LogShaderCompilers: Display: Tracking 7737 distinct input hashes that result in 2075 distinct outputs (26.82%)
+[2022.02.22-10.04.30:973][664]LogShaderCompilers: Display: RAM used: 16.35 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.00%
+[2022.02.22-10.04.30:973][664]LogShaderCompilers: Display: ================================================
+[2022.02.22-10.04.31:167][664]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.22-10.04.31:794][666]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 146
+[2022.02.22-10.04.31:794][666]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.31:885][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 136
+[2022.02.22-10.04.31:885][669]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.32:789][689]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 126
+[2022.02.22-10.04.32:789][689]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.32:951][694]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 116
+[2022.02.22-10.04.32:951][694]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.34:408][737]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 106
+[2022.02.22-10.04.34:408][737]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.35:661][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 96
+[2022.02.22-10.04.35:661][765]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.36:271][779]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 86
+[2022.02.22-10.04.36:271][779]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.37:588][815]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 76
+[2022.02.22-10.04.37:588][815]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.40:066][879]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2022.02.22-10.04.40:066][879]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.40:781][894]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2022.02.22-10.04.40:781][894]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.40:975][898]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 49
+[2022.02.22-10.04.40:975][898]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.41:448][910]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2022.02.22-10.04.41:448][910]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.41:566][913]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 36
+[2022.02.22-10.04.41:567][913]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.45:244][961]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2022.02.22-10.04.45:244][961]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2022.02.22-10.04.45:244][961]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.45:763][970]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2022.02.22-10.04.45:763][970]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.45:834][971]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2022.02.22-10.04.45:834][971]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.46:369][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.02.22-10.04.46:369][979]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.47:120][989]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.02.22-10.04.47:121][989]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.47:624][997]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.02.22-10.04.47:624][997]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.47:885][  1]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.02.22-10.04.47:885][  1]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.48:530][ 12]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.02.22-10.04.48:531][ 12]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.48:852][ 18]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.02.22-10.04.48:853][ 18]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.49:254][ 26]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.22-10.04.49:254][ 26]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.49:495][ 31]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.02.22-10.04.49:496][ 31]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.49:502][ 31]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.02.22-10.04.49:502][ 31]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.49:693][ 35]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.22-10.04.49:693][ 35]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.04.49:745][ 36]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.22-10.04.49:745][ 36]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.02.22-10.05.10:051][613]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.22-10.05.36:431][307]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.02.22-10.05.36:470][307]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2022.02.22-10.06.43:880][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.02.22-10.06.43:885][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Mapa' took 0.069
+[2022.02.22-10.06.43:886][808]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.02.22-10.06.43:917][808]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2022.02.22-10.06.43:947][808]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.02.22-10.06.43:947][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.02.22-10.06.44:000][808]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacter_Auto307BF1A5846DB7F897793FBB4BB1F9742.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2022.02.22-10.06.44:001][808]LogFileHelpers: Auto-saving content packages took 0.116
+[2022.02.22-10.09.47:618][129]LogContentBrowser: Deferred new asset file creation: Fishing_Cast_Montage
+[2022.02.22-10.09.47:635][129]LogContentBrowser: Creating deferred item: Fishing_Cast_Montage
+[2022.02.22-10.09.59:294][596]LogContentBrowser: Attempting asset rename: Fishing_Cast_Montage -> Fishing_montage
+[2022.02.22-10.09.59:296][596]LogContentBrowser: End creating deferred item Fishing_Cast_Montage
+[2022.02.22-10.16.44:620][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.02.22-10.16.44:626][303]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Mapa' took 0.043
+[2022.02.22-10.16.44:626][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.02.22-10.16.44:652][303]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.02.22-10.16.44:652][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.02.22-10.16.44:678][303]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacter_Auto461BAE8BE45E05FD7D7DCCDA915B2F7ED.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2022.02.22-10.16.44:678][303]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.02.22-10.44.01:682][ 29]LogEditorTransaction: Undo Mover nodo
+[2022.02.22-10.44.01:958][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.01:960][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.01:964][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.08:869][205]LogEditorTransaction: Undo Mover nodo
+[2022.02.22-10.44.09:080][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.09:081][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.09:082][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.09:831][222]LogEditorTransaction: Undo Mover nodo
+[2022.02.22-10.44.10:045][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.10:046][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.10:046][222]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.10:928][245]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.22-10.44.11:139][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.11:139][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.11:140][245]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.17:265][462]LogEditorTransaction: Undo Mover nodos
+[2022.02.22-10.44.17:475][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.17:476][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.17:477][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.44.51:336][746]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.02.22-10.44.55:561][902]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.02.22-10.45.08:761][422]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/Mapa.Mapa:PersistentLevel.ModelComponent_1' invalid (48 verts, 0 indices).
+[2022.02.22-10.45.08:761][422]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/Mapa.Mapa:PersistentLevel.ModelComponent_1.BodySetup_0 when we are unable to.
+[2022.02.22-10.45.22:354][966]Cmd: TRANSACTION UNDO
+[2022.02.22-10.45.22:355][966]LogEditorTransaction: Undo Scale Actors
+[2022.02.22-10.45.22:592][966]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.45.22:593][966]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.45.22:594][966]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.46.07:609][328]LogSlate: Window 'Seleccionar ruta' being destroyed
+[2022.02.22-10.46.07:734][328]LogStaticMesh: Generando la malla estática Cilindro_Pincel_StaticMesh...
+[2022.02.22-10.46.07:743][328]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Cilindro_Pincel_StaticMesh.Cilindro_Pincel_StaticMesh
+[2022.02.22-10.46.07:744][328]LogActorFactory: Actor Factory created Cilindro_Pincel_StaticMesh
+[2022.02.22-10.46.07:799][328]LogEditor: Error: Actor 'Brush /Game/ThirdPersonBP/Maps/Mapa.Mapa:PersistentLevel.CilindroPincel' is marked pending kill and cannot be converted
+[2022.02.22-10.46.07:799][328]EditorErrors: New page: Volver a acoplar el actor
+[2022.02.22-10.46.07:844][328]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2022.02.22-10.46.12:722][520]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.02.22-10.46.13:581][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cilindro_Pincel_StaticMesh)
+[2022.02.22-10.46.13:966][569]Cmd: DELETE
+[2022.02.22-10.46.13:966][569]Cmd: ACTOR DELETE
+[2022.02.22-10.46.14:011][569]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.22-10.46.14:039][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.22-10.46.14:042][569]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.02.22-10.46.33:112][278]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Meshes/Cilindro_Pincel_StaticMesh.Cilindro_Pincel_StaticMesh
+[2022.02.22-10.46.33:827][279]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:1).
+[2022.02.22-10.47.31:021][159]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Cilindro_Pincel_StaticMeshB1F602BA419F5AE5FF04CBB731062374.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Geometry/Meshes/Cilindro_Pincel_StaticMesh.uasset'
+[2022.02.22-10.47.31:071][159]AssetCheck: New page: Asset Save: Cilindro_Pincel_StaticMesh
+[2022.02.22-10.47.31:071][159]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Cilindro_Pincel_StaticMesh.Cilindro_Pincel_StaticMesh
+[2022.02.22-10.50.37:738][996]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.50.37:743][996]LogBlueprint: Error: [AssetLog] D:\Repositorio Unreal\MDJ_PRAC_2\Practica2\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2022.02.22-10.50.37:884][996]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2022.02.22-10.50.39:352][ 22]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacter0DD83C814BCAA092BCAB9EA1833EEB18.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.02.22-10.50.39:399][ 22]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.02.22-10.50.39:399][ 22]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.22-10.51.30:952][676]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.22-10.51.34:628][676]LogSlate: Window 'Escoger clase padre' being destroyed
+[2022.02.22-10.51.34:653][676]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.22-10.51.34:674][676]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.22-10.51.38:963][851]LogContentBrowser: Attempting asset rename: NewBlueprint -> fishingrod
+[2022.02.22-10.51.38:967][851]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.22-10.51.41:585][933]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Geometry/Meshes/fishingrod.fishingrod
+[2022.02.22-10.53.08:893][157]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.22-10.53.08:913][157]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.22-10.53.16:652][343]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.53.16:660][343]LogBlueprint: Error: [AssetLog] D:\Repositorio Unreal\MDJ_PRAC_2\Practica2\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.02.22-10.53.16:660][343]LogBlueprint: Error: [AssetLog] D:\Repositorio Unreal\MDJ_PRAC_2\Practica2\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finalizar generación de actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.02.22-10.53.16:799][343]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2022.02.22-10.53.32:646][829]LogEditorTransaction: Undo Añadir nodo
+[2022.02.22-10.53.33:005][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.53.33:005][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.53.33:008][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.56.13:918][200]LogEditorTransaction: Undo Paste clipboard contents
+[2022.02.22-10.56.14:284][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.56.14:285][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.56.14:290][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-10.56.37:530][940]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.56.37:618][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.02.22-10.56.41:110][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-10.56.41:116][ 29]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.22-10.56.41:129][ 29]LogPlayLevel: [PlayLevel] Compiling fishingrod before play...
+[2022.02.22-10.56.41:201][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2022.02.22-10.56.41:202][ 29]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2022.02.22-10.56.41:203][ 29]PIE: New page: Sesión PIE (reproducción en el editor): Mapa (22 feb. 2022 12:56:41)
+[2022.02.22-10.56.41:203][ 29]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.56.41:248][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045411s)
+[2022.02.22-10.56.41:249][ 29]LogAIModule: Creating AISystem for world Mapa
+[2022.02.22-10.56.41:250][ 29]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2022.02.22-10.56.41:250][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Mapa.Mapa to /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa (0.047036s)
+[2022.02.22-10.56.41:288][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.02.22-10.56.41:288][ 29]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-10.56.41:288][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-10.56.41:288][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-10.56.41:288][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-10.56.41:288][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-10.56.41:288][ 29]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-10.56.41:291][ 29]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-10.56.41:291][ 29]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-10.56.41:320][ 29]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.02.22-10.56.41:322][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-10.56.41:322][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-10.56.41:322][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-10.56.41:322][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-10.56.41:322][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-10.56.41:322][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-10.56.41:324][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-10.56.41:324][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-10.56.41:324][ 29]LogInit: FAudioDevice initialized.
+[2022.02.22-10.56.41:324][ 29]LogAudio: Display: Audio Device (ID: 7) registered with world 'Mapa'.
+[2022.02.22-10.56.41:338][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.22-10.56.41:341][ 29]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2022.02.22-11.56.41
+[2022.02.22-10.56.41:342][ 29]LogWorld: Bringing up level for play took: 0.003013
+[2022.02.22-10.56.41:343][ 29]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.02.22-10.56.41:346][ 29]PIE: El servidor ha iniciado la sesión
+[2022.02.22-10.56.41:347][ 29]PIE: Play in editor total start time 0,231 seconds.
+[2022.02.22-10.56.56:086][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.56.56:086][610]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.56.56:086][610]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-10.56.56:087][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.56.56:096][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-10.56.56:104][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.56.56:139][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.56.56:140][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.56.56:141][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.56.56:159][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.02.22-10.56.56:192][611]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.02.22-10.58.10:718][157]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.58.10:756][157]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.22-10.58.11:013][157]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.257 s
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: 
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 1225]
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: 
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: Stack: 
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff97d83f979 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff97c106dd6 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff98fb761da UE4Editor-Kismet.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff98fb1c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff98fb1bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff97aaa00de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff98fc1ee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff98fc3ca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996f7cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996fa2082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996f7ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff99701a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff99703280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996e8421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996efe104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996ee7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff996ed9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff9d4bbc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff9d4ba92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff9d4bbe465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff9d4ba4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff9e813e858 USER32.dll!UnknownFunction []
+[2022.02.22-10.58.11:013][157]LogOutputDevice: Error: [Callstack] 0x00007ff9e813e299 USER32.dll!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff9d4bbfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff6541d7621 UE4Editor.exe!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff6541f0fcc UE4Editor.exe!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff6541f10ba UE4Editor.exe!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff6541f40dd UE4Editor.exe!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff654205984 UE4Editor.exe!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff65420853a UE4Editor.exe!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff9e8087034 KERNEL32.DLL!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: [Callstack] 0x00007ff9e9c22651 ntdll.dll!UnknownFunction []
+[2022.02.22-10.58.11:014][157]LogOutputDevice: Error: 
+[2022.02.22-10.58.11:019][157]LogStats:                SubmitErrorReport -  0.000 s
+[2022.02.22-10.58.13:583][157]LogStats:                    SendNewReport -  2.564 s
+[2022.02.22-10.58.13:583][157]LogStats:             FDebug::EnsureFailed -  2.827 s
+[2022.02.22-10.58.13:644][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.02.22-10.58.13:674][157]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.22-10.58.13:727][157]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-10.58.13:727][157]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-10.58.15:455][210]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacter54E3C5BB44550BD28E243180CBFE7EC9.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.02.22-10.58.15:498][210]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.02.22-10.58.15:498][210]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.22-10.58.25:080][550]BlueprintLog: New page: Compilar fishingrod
+[2022.02.22-10.58.25:151][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.02.22-10.58.25:989][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/fishingrod" FILE="../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Geometry/Meshes/fishingrod.uasset" SILENT=true
+[2022.02.22-10.58.25:996][565]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/fishingrod5DDC95EE419DBC1CEEDE58833566D7CA.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Geometry/Meshes/fishingrod.uasset'
+[2022.02.22-10.58.26:044][565]AssetCheck: New page: Asset Save: fishingrod
+[2022.02.22-10.58.26:044][565]LogContentValidation: Display: Validating Blueprint /Game/Geometry/Meshes/fishingrod.fishingrod
+[2022.02.22-10.58.52:081][317]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.58.52:160][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2022.02.22-10.58.53:214][336]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacterDC701C3D4A6DC86326D9A3AB67A5711E.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.02.22-10.58.53:256][336]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.02.22-10.58.53:256][336]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.22-10.58.55:867][410]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-10.58.55:872][410]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-10.58.55:872][410]PIE: New page: Sesión PIE (reproducción en el editor): Mapa (22 feb. 2022 12:58:55)
+[2022.02.22-10.58.55:872][410]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.58.55:913][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040686s)
+[2022.02.22-10.58.55:914][410]LogAIModule: Creating AISystem for world Mapa
+[2022.02.22-10.58.55:914][410]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2022.02.22-10.58.55:914][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Mapa.Mapa to /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa (0.041948s)
+[2022.02.22-10.58.55:960][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.02.22-10.58.55:962][410]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-10.58.55:962][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-10.58.55:962][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-10.58.55:962][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-10.58.55:963][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-10.58.55:963][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-10.58.55:963][410]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-10.58.55:965][410]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-10.58.55:965][410]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-10.58.55:993][410]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.02.22-10.58.55:993][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-10.58.55:993][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-10.58.55:993][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-10.58.55:994][410]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-10.58.55:994][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-10.58.55:994][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-10.58.55:995][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-10.58.55:995][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-10.58.55:995][410]LogInit: FAudioDevice initialized.
+[2022.02.22-10.58.55:995][410]LogAudio: Display: Audio Device (ID: 8) registered with world 'Mapa'.
+[2022.02.22-10.58.56:006][410]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.22-10.58.56:009][410]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2022.02.22-11.58.56
+[2022.02.22-10.58.56:010][410]LogWorld: Bringing up level for play took: 0.002835
+[2022.02.22-10.58.56:010][410]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.02.22-10.58.56:012][410]PIE: El servidor ha iniciado la sesión
+[2022.02.22-10.58.56:013][410]PIE: Play in editor total start time 0,141 seconds.
+[2022.02.22-10.59.21:833][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.59.21:833][204]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.59.21:834][204]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-10.59.21:834][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.59.21:859][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-10.59.21:866][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.59.21:903][204]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.22-10.59.21:903][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.59.21:904][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.59.21:908][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.59.21:914][204]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.02.22-10.59.21:963][205]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.02.22-10.59.27:268][356]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.59.27:344][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.02.22-10.59.28:221][373]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacter9CDD2D28407EBA89DC15AC970F8E4FD8.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.02.22-10.59.28:264][373]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.02.22-10.59.28:264][373]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.02.22-10.59.31:984][500]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-10.59.31:988][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-10.59.31:989][500]PIE: New page: Sesión PIE (reproducción en el editor): Mapa (22 feb. 2022 12:59:31)
+[2022.02.22-10.59.31:989][500]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.59.32:025][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036080s)
+[2022.02.22-10.59.32:026][500]LogAIModule: Creating AISystem for world Mapa
+[2022.02.22-10.59.32:026][500]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2022.02.22-10.59.32:026][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Mapa.Mapa to /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa (0.037255s)
+[2022.02.22-10.59.32:068][500]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.02.22-10.59.32:070][500]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-10.59.32:070][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-10.59.32:070][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-10.59.32:070][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-10.59.32:070][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-10.59.32:070][500]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-10.59.32:072][500]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-10.59.32:072][500]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-10.59.32:100][500]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.02.22-10.59.32:100][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-10.59.32:100][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-10.59.32:100][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-10.59.32:100][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-10.59.32:100][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-10.59.32:100][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-10.59.32:101][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-10.59.32:101][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-10.59.32:101][500]LogInit: FAudioDevice initialized.
+[2022.02.22-10.59.32:101][500]LogAudio: Display: Audio Device (ID: 9) registered with world 'Mapa'.
+[2022.02.22-10.59.32:111][500]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.22-10.59.32:114][500]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2022.02.22-11.59.32
+[2022.02.22-10.59.32:115][500]LogWorld: Bringing up level for play took: 0.002839
+[2022.02.22-10.59.32:115][500]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.02.22-10.59.32:118][500]PIE: El servidor ha iniciado la sesión
+[2022.02.22-10.59.32:118][500]PIE: Play in editor total start time 0,13 seconds.
+[2022.02.22-10.59.36:724][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.59.36:724][676]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.59.36:725][676]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-10.59.36:725][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.59.36:752][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-10.59.36:759][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-10.59.36:793][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.22-10.59.36:794][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.59.36:795][676]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-10.59.36:823][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-10.59.36:830][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.02.22-10.59.36:857][677]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.02.22-10.59.45:254][890]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2022.02.22-10.59.45:331][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.02.22-10.59.55:094][235]BlueprintLog: New page: Compilar fishingrod
+[2022.02.22-10.59.55:165][235]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.02.22-10.59.56:320][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/fishingrod" FILE="../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Geometry/Meshes/fishingrod.uasset" SILENT=true
+[2022.02.22-10.59.56:327][264]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/fishingrodECA2387F484162B88AD82A9CD324B779.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Geometry/Meshes/fishingrod.uasset'
+[2022.02.22-10.59.56:375][264]AssetCheck: New page: Asset Save: fishingrod
+[2022.02.22-10.59.56:375][264]LogContentValidation: Display: Validating Blueprint /Game/Geometry/Meshes/fishingrod.fishingrod
+[2022.02.22-10.59.57:811][299]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-10.59.57:817][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-10.59.57:817][299]PIE: New page: Sesión PIE (reproducción en el editor): Mapa (22 feb. 2022 12:59:57)
+[2022.02.22-10.59.57:817][299]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-10.59.57:853][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036033s)
+[2022.02.22-10.59.57:854][299]LogAIModule: Creating AISystem for world Mapa
+[2022.02.22-10.59.57:855][299]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2022.02.22-10.59.57:855][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Mapa.Mapa to /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa (0.037216s)
+[2022.02.22-10.59.57:899][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.02.22-10.59.57:901][299]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-10.59.57:901][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-10.59.57:901][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-10.59.57:901][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-10.59.57:901][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-10.59.57:901][299]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-10.59.57:904][299]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-10.59.57:904][299]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-10.59.57:930][299]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.02.22-10.59.57:931][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-10.59.57:931][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-10.59.57:931][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-10.59.57:931][299]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-10.59.57:931][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-10.59.57:931][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-10.59.57:932][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-10.59.57:932][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-10.59.57:932][299]LogInit: FAudioDevice initialized.
+[2022.02.22-10.59.57:932][299]LogAudio: Display: Audio Device (ID: 10) registered with world 'Mapa'.
+[2022.02.22-10.59.57:944][299]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.22-10.59.57:946][299]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 60) at 2022.02.22-11.59.57
+[2022.02.22-10.59.57:947][299]LogWorld: Bringing up level for play took: 0.002639
+[2022.02.22-10.59.57:947][299]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.02.22-10.59.57:950][299]PIE: El servidor ha iniciado la sesión
+[2022.02.22-10.59.57:950][299]PIE: Play in editor total start time 0,135 seconds.
+[2022.02.22-11.00.03:373][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-11.00.03:373][515]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Mapa
+[2022.02.22-11.00.03:373][515]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-11.00.03:374][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-11.00.03:383][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-11.00.03:391][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-11.00.03:424][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.22-11.00.03:425][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-11.00.03:427][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-11.00.03:431][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-11.00.03:437][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.02.22-11.00.03:462][516]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.02.22-11.00.33:586][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.02.22-11.00.33:676][537]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Mapa_Auto5F208B51A4BA9663D470C7F8A8B972240.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/ThirdPersonBP/Maps/Mapa_Auto5.umap'
+[2022.02.22-11.00.33:678][537]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Mapa' took 0.132
+[2022.02.22-11.00.33:678][537]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.132
+[2022.02.22-11.00.33:678][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.02.22-11.00.33:706][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.02.22-11.00.33:706][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.02.22-11.00.33:737][537]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/ThirdPersonCharacter_Auto543FF40B8456FF5080AC471AD111B2C53.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2022.02.22-11.00.33:739][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2022.02.22-11.00.33:739][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2022.02.22-11.00.33:764][537]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/UE4_Mannequin_Skeleton_Auto50AF770C84ECC2177FEB4539AC053BAF2.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto5.uasset'
+[2022.02.22-11.00.33:765][537]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Mesh/SK_Mannequin] ([1] browsable assets)...
+[2022.02.22-11.00.33:785][537]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin]
+[2022.02.22-11.00.33:785][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/SK_Mannequin]
+[2022.02.22-11.00.33:870][537]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/SK_Mannequin_Auto591541862412FC6B4383C34AF0CFEB708.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_Auto5.uasset'
+[2022.02.22-11.00.33:870][537]LogFileHelpers: Auto-saving content packages took 0.192
+[2022.02.22-11.23.22:886][  6]LogHttp: Warning: 00000217D2F90F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD67763BE-4D94-0124-53B6-B18AC545E062%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=735c4d124bd9ed1e1b646b91ed4d4387%7C7e428c67b1b949b8b8f62839a598acdd%7C2f11e0e3-a23d-49d9-b78d-1c7fc49c04ae&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.22-11.23.22:898][  6]LogHttp: Warning: 00000217D2F90F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x216946c3eb0 [can pipeline])
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.228.133.22) port 443 (#2))
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.22-11.23.22:899][  6]LogHttp: Warning: 00000217D2F90F00: libcurl info message cache 7 (Closing connection 2)
+[2022.02.22-11.23.22:923][  7]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD67763BE-4D94-0124-53B6-B18AC545E062%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=735c4d124bd9ed1e1b646b91ed4d4387%7C7e428c67b1b949b8b8f62839a598acdd%7C2f11e0e3-a23d-49d9-b78d-1c7fc49c04ae&AppEnvironment=datacollector-binary&UploadType=eteventstream

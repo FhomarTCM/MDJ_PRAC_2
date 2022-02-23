@@ -3706,3 +3706,14 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.23-17.45.05:888][795]BlueprintLog: New page: Compilar FishUI
 [2022.02.23-17.45.05:895][795]LogBlueprint: Error: [AssetLog] D:\Repositorio Unreal\MDJ_PRAC_2\Practica2\Content\FishUI.uasset: [Compiler] This blueprint (self) is not a Slider, therefore ' Meta ' must have a connection.
 [2022.02.23-17.45.05:941][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.02.23-17.45.26:962][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Imported/Fishing_Montage" FILE="../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Animations/Imported/Fishing_Montage.uasset" SILENT=true
+[2022.02.23-17.45.26:964][  3]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Fishing_Montage1A2B7B6A459AD5017E2D879215177170.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/Animations/Imported/Fishing_Montage.uasset'
+[2022.02.23-17.45.27:052][  3]AssetCheck: New page: Asset Save: Fishing_Montage
+[2022.02.23-17.45.27:052][  3]LogContentValidation: Display: Validating AnimMontage /Game/Animations/Imported/Fishing_Montage.Fishing_Montage
+[2022.02.23-17.45.30:600][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.02.23-17.45.30:693][ 97]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/MapaE4FAA3F14D35DA9ED0CE3B849062BF55.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Maps/Mapa.umap'
+[2022.02.23-17.45.30:761][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Mapa_BuiltData" FILE="../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Maps/Mapa_BuiltData.uasset" SILENT=true
+[2022.02.23-17.45.30:893][ 97]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/Mapa_BuiltData3AB852544A215E283DECB29B2FB7B6B0.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/ThirdPersonBP/Maps/Mapa_BuiltData.uasset'
+[2022.02.23-17.45.30:933][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.23-17.45.30:933][ 97]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Mapa.Mapa
+[2022.02.23-17.45.30:933][ 97]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Mapa_BuiltData.Mapa_BuiltData

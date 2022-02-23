@@ -3717,3 +3717,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.23-17.45.30:933][ 97]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.23-17.45.30:933][ 97]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Mapa.Mapa
 [2022.02.23-17.45.30:933][ 97]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Mapa_BuiltData.Mapa_BuiltData
+[2022.02.23-17.45.40:717][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FishUI" FILE="../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/FishUI.uasset" SILENT=true
+[2022.02.23-17.45.40:735][200]LogSavePackage: Moving '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Saved/FishUIF9573E02401AED1ECC83199A13D08F8D.tmp' to '../../../../../../Repositorio Unreal/MDJ_PRAC_2/Practica2/Content/FishUI.uasset'
+[2022.02.23-17.45.40:806][200]AssetCheck: New page: Asset Save: FishUI
+[2022.02.23-17.45.40:806][200]LogContentValidation: Display: Validating WidgetBlueprint /Game/FishUI.FishUI
